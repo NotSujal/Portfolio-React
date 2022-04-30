@@ -67,13 +67,18 @@ const BlogPostNFT = (props) => {
           <h3 className="blog-post-n-f-t-text09 healine">
             <span className="blog-post-n-f-t-text10">Before I go </span>
           </h3>
-          <span className="blog-post-n-f-t-text11 textXL">
+          <a
+            href="https://opensea.io/notsujal"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="blog-post-n-f-t-link textXL"
+          >
             <span>
               Here is the link to my collection so you could check it out.
             </span>
             <br></br>
             <span>https://opensea.io/notsujal</span>
-          </span>
+          </a>
         </div>
       </div>
       <Footer></Footer>

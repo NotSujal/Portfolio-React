@@ -7,6 +7,7 @@ import Blogs from './views/blogs'
 import Profile from './views/profile'
 import Index from './views/index'
 import BlogPostNFT from './views/blog-post-n-f-t'
+import BlogPostSingularity from './views/blog-post-singularity'
 
 const App = () => {
   return (
@@ -16,6 +17,11 @@ const App = () => {
         <Route exact component={Profile} path="/profilehtml" />
         <Route exact component={Index} path="/" />
         <Route exact component={BlogPostNFT} path="/blog-post-n-f-t" />
+        <Route
+          exact
+          component={BlogPostSingularity}
+          path="/blog-post-singularity"
+        />
       </div>
     </Router>
   )

@@ -303,7 +303,12 @@ const Index = (props) => {
                 ></MemberDetails>
               </div>
             </Link>
-            <Link to="/profilehtml" className="index-navlink1">
+            <a
+              href="https://github.com/NotSujal/8085-assembly-to-hex"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link2"
+            >
               <div className="index-container29">
                 <MemberDetails
                   heading1="8085 Sim"
@@ -311,17 +316,23 @@ const Index = (props) => {
                   image_src="https://source.unsplash.com/100x100/?computer"
                 ></MemberDetails>
               </div>
-            </Link>
-            <Link to="/profilehtml" className="index-navlink2">
+            </a>
+            <a
+              href="https://notsujal.itch.io/singularity"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link3"
+            >
               <div className="index-container30">
                 <MemberDetails
-                  heading1="Photography "
-                  heading11="Book"
-                  image_src="https://source.unsplash.com/100x100/?camera"
+                  heading1="Singularity"
+                  heading11="Game"
+                  image_alt="image"
+                  image_src="https://source.unsplash.com/100x100/?game"
                 ></MemberDetails>
               </div>
-            </Link>
-            <Link to="/profilehtml" className="index-navlink3">
+            </a>
+            <Link to="/profilehtml" className="index-navlink1">
               <div className="index-container31">
                 <MemberDetails
                   heading1="Arena1999"
@@ -330,6 +341,67 @@ const Index = (props) => {
                 ></MemberDetails>
               </div>
             </Link>
+          </div>
+        </div>
+        <div className="index-team1">
+          <div className="index-container32">
+            <a
+              href="https://github.com/NotSujal/Neptune.js"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link4"
+            >
+              <div className="index-container33">
+                <MemberDetails
+                  heading1="Neptune.Js"
+                  heading11="JavaScript Framework"
+                  image_src="https://source.unsplash.com/100x100/?supermario"
+                ></MemberDetails>
+              </div>
+            </a>
+            <a
+              href="https://opensea.io/collection/dotgalaxy"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link5"
+            >
+              <div className="index-container34">
+                <MemberDetails
+                  heading1="Dot Galaxy"
+                  heading11="NFT collection"
+                  image_src="https://source.unsplash.com/100x100/?computer"
+                ></MemberDetails>
+              </div>
+            </a>
+            <a
+              href="https://github.com/NotSujal/Space"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link6"
+            >
+              <div className="index-container35">
+                <MemberDetails
+                  heading1="Space"
+                  heading11="Game Prototype"
+                  image_alt="image"
+                  image_src="https://source.unsplash.com/100x100/?space"
+                ></MemberDetails>
+              </div>
+            </a>
+            <a
+              href="https://cyber.notsujal.repl.co/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="index-link7"
+            >
+              <div className="index-container36">
+                <MemberDetails
+                  heading1="Cyber"
+                  heading11="Discord Bot"
+                  image_src="https://source.unsplash.com/100x100/?discord"
+                ></MemberDetails>
+              </div>
+            </a>
           </div>
         </div>
       </div>
