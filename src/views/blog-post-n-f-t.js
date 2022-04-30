@@ -39,42 +39,24 @@ const BlogPostNFT = (props) => {
           </span>
         </span>
         <span className="blog-post-n-f-t-text04">
-          <span className="blog-post-n-f-t-text05">
-            Hello, I rescently made a NFT collection over opensea.io.
+          <span>
+            I was already working on an algorithmically rendered artwork made
+            some a few months ago and shared the art with some of my friends
+            over discord. At that time I was unaware of the NFT hype and was
+            also unable to find a platform which takes 0 gas fee.
           </span>
           <br></br>
-          <span>
-            I enjoyed making a NFT collection, it was a great exprience. This is
-            my first-ever collection. I made it with the help of Python Image
-            Library.
-          </span>
+          <span>​</span>
           <br></br>
           <span>
-            With the help of the code, I was able to generate around 20-30
-            pieces of art, out of which I selected best 10 and created a
-            collections for lowest price possible.
-          </span>
-          <br></br>
-          <span></span>
-          <br></br>
-          <span>
-            I was already working of a argorithmically generated artworks made
-            some a few months ago, shared the art with some of my friends over
-            discord. At that time I was unaware of the NFT hype and was also
-            unable to find the platform which takes 0 gas fee.
-          </span>
-          <br></br>
-          <span></span>
-          <br></br>
-          <span>
-            A few days prior today it came to my perception that there is a
-            platform (opesea.io: polygon blockchain) is free to use.
+            A few days before today it came to my perception that there is a
+            platform (opesea.io: polygon blockchain) that is free to use.
           </span>
           <br></br>
           <span>
             I instantly created a new set of rules for my algorithm, added new
-            equations, randomness and created the code which generates
-            Galaxies.. Isnt this Great?
+            equations and randomness and created the code which generates
+            Galaxies. Isn&apos;t this Great?
           </span>
         </span>
       </div>
@@ -82,10 +64,10 @@ const BlogPostNFT = (props) => {
       <div className="blog-post-n-f-t-posts">
         <div className="blog-post-n-f-t-container3">
           <Label text="STORIES"></Label>
-          <h3 className="blog-post-n-f-t-text20 healine">
-            <span className="blog-post-n-f-t-text21">Before I go </span>
+          <h3 className="blog-post-n-f-t-text09 healine">
+            <span className="blog-post-n-f-t-text10">Before I go </span>
           </h3>
-          <span className="blog-post-n-f-t-text22 textXL">
+          <span className="blog-post-n-f-t-text11 textXL">
             <span>
               Here is the link to my collection so you could check it out.
             </span>
