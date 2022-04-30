@@ -31,6 +31,7 @@ const Profile = (props) => {
         <div className="profile-container02">
           <div className="profile-container03">
             <Language number="Python"></Language>
+            <Language type="Comments" number="JavaScript"></Language>
             <Language type="Photos" number="C++"></Language>
             <Language type="Comments" number="C#"></Language>
           </div>
@@ -49,7 +50,7 @@ const Profile = (props) => {
               >
                 <PrimaryButton
                   button="Github"
-                  className="profile-component4"
+                  className="profile-component5"
                 ></PrimaryButton>
               </a>
             </div>
@@ -59,7 +60,7 @@ const Profile = (props) => {
             >
               <SecondaryButton
                 button="Email"
-                className="profile-component5"
+                className="profile-component6"
               ></SecondaryButton>
             </a>
           </div>
@@ -98,7 +99,7 @@ const Profile = (props) => {
             <span>A programmer with various qualities.</span>
             <br></br>
             <span>
-              He can use a creative approach to problem solve. Energetic and
+              I can use a creative approach to problem solve. Energetic and
               eager to learn new skills.
               <span
                 dangerouslySetInnerHTML={{

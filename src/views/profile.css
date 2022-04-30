@@ -64,9 +64,11 @@
   position: relative;
   align-items: center;
   padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-unit);
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .profile-container03 {
   flex: 0 0 auto;
@@ -105,13 +107,13 @@
 .profile-link {
   display: contents;
 }
-.profile-component4 {
+.profile-component5 {
   text-decoration: none;
 }
 .profile-link1 {
   display: contents;
 }
-.profile-component5 {
+.profile-component6 {
   text-decoration: none;
 }
 .profile-container06 {
@@ -199,6 +201,7 @@
   background-color: var(--dl-color-gray-700);
 }
 .profile-text04 {
+  color: #777777;
   width: 75%;
   font-size: 1.125rem;
   text-align: center;

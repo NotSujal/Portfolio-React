@@ -315,3 +315,9 @@
     margin-bottom: 0px;
   }
 }
+@media(max-width: 479px) {
+  .header-mobile-menu {
+    height: 392px;
+    display: none;
+  }
+}
