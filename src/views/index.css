@@ -868,6 +868,9 @@
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
+  .index-team {
+    height: 473px;
+  }
   .index-container27 {
     flex-wrap: wrap;
     flex-direction: row;
@@ -886,6 +889,9 @@
   }
   .index-container31 {
     width: 50%;
+  }
+  .index-team1 {
+    height: 492px;
   }
   .index-container32 {
     flex-wrap: wrap;
@@ -930,9 +936,15 @@
   .index-container14 {
     align-items: flex-start;
   }
+  .index-team {
+    height: 959px;
+  }
   .index-container27 {
     align-items: center;
     flex-direction: column;
+  }
+  .index-team1 {
+    height: 964px;
   }
   .index-container32 {
     align-items: center;
